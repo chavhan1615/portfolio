@@ -487,6 +487,7 @@ html{
 
 /* for responsive */
 /* Tablets and small desktops */
+/*
 @media (max-width: 992px) {
     .nav-logo, .nav-bar, .nav-btn {
         width: 100%;
@@ -536,8 +537,9 @@ html{
         flex-direction: column;
     }
 }
-
+*/
 /* For mobile devices */
+/*
 @media (max-width: 768px) {
     .nav-logo h1 {
         font-size: 24px;
@@ -563,3 +565,4 @@ html{
         font-size: 16px;
     }
 }
+*/
